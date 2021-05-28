@@ -1,5 +1,5 @@
 /*
-	Leitura de Dados de Arquivo
+	Gravação de struct em arquivo
 	
 	Autor: Alexandre Moraes Tannus
 	Data: 27/05/2021	
